@@ -1,0 +1,17 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:recommended"
+  ],
+  "jsRules": {},
+  "rules": {
+    "indent": true,
+    "class-name": true,
+    "no-duplicate-imports": true,
+    "no-unsafe-any": true,
+    "semicolon": true,
+    "space-before-function-paren": false,
+    "no-console": true,
+    "no-trailing-whitespace": false
+  }
+}
